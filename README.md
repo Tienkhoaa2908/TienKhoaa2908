@@ -1,17 +1,29 @@
+<div align="center">
+
 # Đào Tiến Khoa
 
-Second-year Data Science student at Ho Chi Minh City University of Technology, HCMUT.
+**Data Science @ HCMUT · Year 2 · First-year GPA 3.7/4.0**
 
-First-year GPA: **3.7/4.0**
+Machine Learning · Deep Learning · Quantitative Finance
 
-Interested in **Machine Learning**, **Deep Learning**, and **Quantitative Finance**.
+[LinkedIn](https://www.linkedin.com/in/ti%E1%BA%BFn-khoa-%C4%91%C3%A0o-61b887398/) · [Email](mailto:khoadao29082007@gmail.com)
 
-## Selected project
+</div>
+
+---
+
+## `> whoami`
+
+Second-year Data Science student at Ho Chi Minh City University of Technology, HCMUT. I am mainly interested in machine learning, deep learning, and quantitative finance.
+
+## `> selected_project`
 
 ### [Vietnam Equity Quant Lab](https://github.com/Tienkhoaa2908/VietNam-equity-quant-lab)
 
-A reproducible quantitative research framework for Vietnamese equities, covering market-data validation, feature engineering, chronological model training, cross-sectional ranking, portfolio construction, and execution-aware backtesting.
+Quantitative research framework for Vietnamese equities with data validation, feature engineering, chronological model training, cross-sectional ranking, portfolio construction, and execution-aware backtesting.
 
-## Contact
+`Python` · `Machine Learning` · `Time Series` · `Quantitative Finance`
 
-[LinkedIn](https://www.linkedin.com/in/ti%E1%BA%BFn-khoa-%C4%91%C3%A0o-61b887398/) · [Email](mailto:khoadao29082007@gmail.com)
+## `> contact`
+
+[LinkedIn](https://www.linkedin.com/in/ti%E1%BA%BFn-khoa-%C4%91%C3%A0o-61b887398/) · [khoadao29082007@gmail.com](mailto:khoadao29082007@gmail.com)
